@@ -1,0 +1,15 @@
+nav{
+    height: 125px;
+    background-image: url(../../public/images/bg-header-desktop.svg);
+    background-color:hsl(180, 29%, 50%) ;
+    margin-bottom: 5em;
+    position:relative;
+}
+.jobslist--input{
+    width: 50%;
+    padding: 0.8rem 0.8rem;
+    border-radius: .5rem ;
+    position: absolute;
+    top: 100px;
+    left: 25vw;
+}
