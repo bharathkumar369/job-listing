@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://job-listing-lake-nine.vercel.app/
-- Live Site URL: https://github.com/bharathkumar369/job-listing
+- Solution URL:  https://github.com/bharathkumar369/job-listing
+- Live Site URL: https://job-listing-lake-nine.vercel.app/
 
 
 
