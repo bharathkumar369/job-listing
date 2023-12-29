@@ -46,6 +46,7 @@ const JobsList = (props) => {
                         className="jobslist--input" 
                         onChange={props.handleChange}
                         value={props.searchInput}
+                        placeholder='search'
                     />
                 </div>
             </nav>
